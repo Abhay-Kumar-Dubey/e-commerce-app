@@ -20,14 +20,15 @@ An eCommerce application built using Flutter, featuring a dynamic user interface
 ## Screenshots
 
 ### Home Page
-/Screenshots/ios Homepage.png
+![Home Page](/Screenshots/ios homepage.png)
 
 ### Category Selection
+![Category Screen](/Screenshots/ios category List.png)
 
 
 
 ### Product Page
-
+![Product Description](/Screenshots/ios product Details.png)
 
 
 
